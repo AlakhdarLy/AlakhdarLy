@@ -1,8 +1,21 @@
 <div align="center">
 
+<!-- Hero Banner: Circuit Board Aesthetic -->
 <a href="https://github.com/AlakhdarLy">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=260&section=header&text=Ali%20Saleh&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Electrical%20%26%20Electronics%20Engineer%20%E2%9A%A1&descSize=20&descAlignY=58&animation=twinkling" width="100%" alt="header"/>
+  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1920&h=420&q=80" width="100%" alt="banner"/>
 </a>
+
+<!-- Profile Picture: Circular Avatar -->
+<a href="https://github.com/AlakhdarLy">
+  <img src="https://github.com/AlakhdarLy.png" width="160" height="160" style="border-radius:50%;border:4px solid #58a6ff;margin-top:-90px;" alt="Ali Saleh avatar"/>
+</a>
+
+<h1>
+  ⚡ Ali Saleh ⚡
+  <a href="https://github.com/AlakhdarLy">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&width=420&height=30&lines=Electrical+%26+Electronics+Engineer" alt="role"/>
+  </a>
+</h1>
 
 <a href="https://github.com/AlakhdarLy">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Designing+circuits+that+think;Decoding+the+language+of+signals;Bridging+the+gap+between+hardware+%26+code;From+silicon+to+systems+%E2%9A%A1" alt="typing"/>
